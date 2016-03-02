@@ -1,9 +1,9 @@
 # react-makes-you-sad
 React 때문에 행복해 지는 flowchart! 입니다.
 
-## <a href='https://cdn.rawgit.com/ehrudxo/react-makes-you-sad/korean/fatigue.svg' target='_blank'>Open in a new tab</a>
+## <a href='https://cdn.rawgit.com/ehrudxo/react-makes-you-sad/master/fatigue.svg' target='_blank'>Open in a new tab</a>
 
-<img src='https://cdn.rawgit.com/ehrudxo/react-makes-you-sad/korean/fatigue.svg'>
+<img src='https://cdn.rawgit.com/ehrudxo/react-makes-you-sad/master/fatigue.svg'>
 
 ## Credits
 
