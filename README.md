@@ -20,6 +20,7 @@ React 때문에 행복해 지는 flowchart! 입니다.
 
 - [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
 - [Français](https://github.com/matteodelabre/react-vous-rend-triste)
+- [Portuguese](https://github.com/brunogenaro/react-makes-you-sad)
 - [한국어](https://github.com/ehrudxo/react-makes-you-sad)
 
 ## 라이센스
