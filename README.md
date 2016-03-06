@@ -18,11 +18,15 @@ React 때문에 행복해 지는 flowchart! 입니다.
 
 ## Translation
 
-- [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
 - [Français](https://github.com/matteodelabre/react-vous-rend-triste)
 - [Portuguese](https://github.com/brunogenaro/react-makes-you-sad)
+- [Spanish](https://github.com/jvalen/react-makes-you-sad)
+- [Tiếng Việt](https://github.com/petehouston/react-makes-you-sad)
+- [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
 - [한국어](https://github.com/ehrudxo/react-makes-you-sad)
-
+- [日本語](https://github.com/kuy/react-makes-you-sad)
+- [Русский](https://github.com/Sacret/react-makes-you-sad)
+- 
 ## 라이센스
 
 [CC0](https://wiki.creativecommons.org/wiki/CC0)
